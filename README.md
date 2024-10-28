@@ -3,7 +3,7 @@
 
 👨‍💻 Devops Projects:
 -----------------------------
-[Let's Encrypt configuration on Kubernetes with Nginx](https://github.com/kavyagoudam/k8s-nginx-Cert-Manager-LetsEncrypt.git)
+1. [Let's Encrypt configuration on Kubernetes with Nginx](https://github.com/kavyagoudam/k8s-nginx-Cert-Manager-LetsEncrypt.git)
 
 <!--
 **kavyagoudam/kavyagoudam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
